@@ -65,4 +65,5 @@ The nulldata dataframe is passed through the XGBoost Model and the predicted pay
 * 31-45 days
 * 46-60 days
 * Greater than 60 days
+
 The new column aging_buckets is created and the results are stores in a different csv file. 
